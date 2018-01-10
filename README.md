@@ -2,7 +2,7 @@
 
 ---
 
-###Raspberry Pi
+### Raspberry Pi
 
 The `PS1` variable was changed to make the prompt look like this:
 
